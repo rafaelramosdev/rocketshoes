@@ -36,8 +36,8 @@ Este é um projeto desenvolvido como prática das aulas do Chapter II da trilha 
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/rafaelramosdev/rocket-shoes
-$ cd rocket-shoes
+$ git clone https://github.com/rafaelramosdev/rocketshoes
+$ cd rocketshoes
 ```
 
 Para iniciá-lo, siga os passos abaixo:
